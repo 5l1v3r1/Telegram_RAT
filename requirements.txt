@@ -1,0 +1,10 @@
+cx-Freeze==5.1.1
+idna==2.7
+Pillow==5.1.0
+PyAutoGUI==0.9.36
+PyMsgBox==1.0.6
+PyScreeze==0.1.14
+pyTelegramBotAPI==3.6.3
+PyTweening==1.0.3
+requests==2.7.0
+six==1.11.0

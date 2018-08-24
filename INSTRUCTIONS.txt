@@ -1,0 +1,10 @@
+1) Open bot_configuration.py and set-up bot token, this token is given by Bot_Father @BotFather
+
+2) Open email_configuration.py and set-up fill in 
+	EMAIL_ADDRESS (Email from which email will be sent)
+	PASSWORD (password for the email which will be sending emails)
+	RECIPIENT_ADDRESS (Email which will recive emails, by default it is EMAIL_ADDRESS
+_ * _ Note make sure that email which sends emails is gmail, and that it has "Less secure apps" on off, this can be done here https://myaccount.google.com/lesssecureapps _ * _
+
+3) Go to program.py and use it as you feel like, program.py is responsible for all of the main actions, if you run program.py from your computer, bot will be active
+	and will do set actions on your computer.
